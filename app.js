@@ -51,5 +51,6 @@ var generateName = function (e) {
   document.getElementById('name').value = name;
 
   // Say the name
-  responsiveVoice.speak(name);
+  responsiveVoice.cancel();
+  responsiveVoice.speak(name, 'US English Female');
 };
