@@ -1,9 +1,6 @@
 // (function () {
   'use strict';
 
-  // For Google Translate API (for voice)
-  var baseURL = 'http://translate.google.com/translate_tts?ie=UTF-8&tl=en-us&client=t&q=';
-
   // Set up our word dictionaries
   var adjectives = [
     'Spiritual',
@@ -52,12 +49,9 @@
       types[Math.floor(Math.random() * types.length)];
 
     // Generated names will be of the form adjective + noun + type
-    $('#name').val(name);
+    document.getElementById('name').value = name;
 
-    $.ajax(baseURL+name, {
-      success: function (data) {
-        console.log(data);
-      }
-    });
+    // Say the name
+    responsiveVoice.speak(name);
   }
-// })();
+})();
