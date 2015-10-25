@@ -1,5 +1,10 @@
 'use strict';
 
+var msg = new SpeechSynthesisUtterance();
+speechSynthesis.onvoiceschanged = function () {
+  msg.voice = speechSynthesis.getVoices()[3]; // Google UK English Male
+};
+
 // Set up our word dictionaries
 var adjectives = [
   'Spiritual',
@@ -51,6 +56,9 @@ var generateName = function (e) {
   document.getElementById('name').value = name;
 
   // Say the name
-  responsiveVoice.cancel();
-  responsiveVoice.speak(name, 'US English Female');
+  if ('speechSynthesis' in window) {
+    speechSynthesis.cancel();
+    msg.text = name;
+    speechSynthesis.speak(msg);
+  }
 };

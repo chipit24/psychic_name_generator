@@ -12,14 +12,24 @@
   </head>
 
   <body>
-    <div class="form-container">
+    <div class="centre-container">
+      <div class="image"></div>
+
       <form onsubmit="generateName(event)">
-        <input type="text" id="name">
+        <input type="text" id="name" readonly="readonly">
         <input type="submit" value="Generate">
       </form>
+
+      <div class="instructions">
+        <h1>How to use</h1>
+        <ol>
+          <li>Click the generate button</li>
+          <li>... ?</li>
+          <li>Profit</li>
+        </ol>
+      </div>
     </div>
 
-    <script src='https://code.responsivevoice.org/responsivevoice.js'></script>
     <script type="text/javascript" src="app.js"></script>
   </body>
 </html>

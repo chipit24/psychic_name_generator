@@ -1,0 +1,1077 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"number",
+				"number_of_students_hired"
+			],
+			[
+				"numb",
+				"number_of_respondents"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"isnu",
+				"is_numeric"
+			],
+			[
+				"Proximi",
+				"ProximityMeasure"
+			],
+			[
+				"client",
+				"client_name"
+			],
+			[
+				"focal",
+				"focal_name"
+			],
+			[
+				"program_funding",
+				"program_funding"
+			],
+			[
+				"proximi",
+				"proximity_measures"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"peer",
+				"peer_programs"
+			],
+			[
+				"foc",
+				"focalProgramIds"
+			],
+			[
+				"focalPro",
+				"focalProgramIds"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"impa",
+				"impactMeasures"
+			],
+			[
+				"sele",
+				"selectedImpactMeasure"
+			],
+			[
+				"column",
+				"columnName"
+			],
+			[
+				"Impac",
+				"ImpactMeasure"
+			],
+			[
+				"Imp",
+				"ImpactMeasureName"
+			],
+			[
+				"prog",
+				"programData"
+			],
+			[
+				"clien",
+				"client_id"
+			],
+			[
+				"impac",
+				"impact"
+			],
+			[
+				"nor",
+				"normalized_data"
+			],
+			[
+				"daa",
+				"dataset"
+			],
+			[
+				"norma",
+				"normalizedValue"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"head",
+				"header-title"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"ind",
+				"industry_focus_id"
+			],
+			[
+				"Pro",
+				"ProximityMeasure"
+			],
+			[
+				"proxim",
+				"proximity_measures"
+			],
+			[
+				"proximity",
+				"proximity_measures"
+			],
+			[
+				"prim",
+				"proximityColumns"
+			],
+			[
+				"forea",
+				"foreach	foreach …"
+			],
+			[
+				"FOR",
+				"foreach"
+			],
+			[
+				"orderBy",
+				"orderByRaw"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"cli",
+				"client"
+			],
+			[
+				"sor",
+				"sortBy"
+			],
+			[
+				"average",
+				"average_age_of_client_companies"
+			],
+			[
+				"host",
+				"host_id"
+			],
+			[
+				"aver",
+				"average_annual_revenues_of_client_firms"
+			],
+			[
+				"Indus",
+				"IndustryFocus"
+			],
+			[
+				"indus",
+				"industry_focus"
+			],
+			[
+				"indu",
+				"industry_focus"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"program",
+				"program_funding"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"prox",
+				"proximityMeasures"
+			],
+			[
+				"num",
+				"number_of_clients"
+			],
+			[
+				"selec",
+				"selectedProximityMeasures"
+			],
+			[
+				"select",
+				"selectedProximityMeasures"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"excel",
+				"excel_file"
+			],
+			[
+				"fi",
+				"fields"
+			],
+			[
+				"sea",
+				"searchTerms"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"with",
+				"withPivot"
+			],
+			[
+				"updated",
+				"updated_by"
+			],
+			[
+				"update",
+				"updated_by"
+			],
+			[
+				"dupl",
+				"duplicate"
+			],
+			[
+				"route",
+				"routeParams"
+			],
+			[
+				"tab",
+				"tab_curve"
+			],
+			[
+				"svg",
+				"svg_tab_button"
+			],
+			[
+				"duplic",
+				"duplicate_id"
+			],
+			[
+				"resource",
+				"resource"
+			],
+			[
+				"resourc",
+				"resource"
+			],
+			[
+				"resize",
+				"resizeTabs"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"link",
+				"linkedResources"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"resou",
+				"resourceCount"
+			],
+			[
+				"del",
+				"deleteCount"
+			],
+			[
+				"submit",
+				"submit_div"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"catego",
+				"category_id"
+			],
+			[
+				"cl",
+				"closest"
+			],
+			[
+				"resour",
+				"resource"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"init",
+				"inherit"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"organ",
+				"organizations"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"lab",
+				"labelled_input"
+			],
+			[
+				"sear",
+				"searchForm"
+			],
+			[
+				"star",
+				"startRow"
+			],
+			[
+				"roo",
+				"rootScope"
+			],
+			[
+				"online",
+				"online_resources"
+			],
+			[
+				"fun",
+				"funding"
+			],
+			[
+				"ev",
+				"events"
+			],
+			[
+				"com",
+				"competitions"
+			],
+			[
+				"se",
+				"select	Tag"
+			],
+			[
+				"end_date",
+				"end_date_text"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"creat",
+				"createForm"
+			],
+			[
+				"lin",
+				"linkedResources"
+			],
+			[
+				"linke",
+				"linkedResources"
+			],
+			[
+				"recurr",
+				"recurring"
+			],
+			[
+				"Cr",
+				"createForm"
+			],
+			[
+				"recurring",
+				"recurring_start"
+			],
+			[
+				"da",
+				"dateUpper"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"application",
+				"application_deadline"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"comment",
+				"commentCount"
+			],
+			[
+				"comme",
+				"commentCount"
+			],
+			[
+				"de",
+				"default_image"
+			],
+			[
+				"defa",
+				"default_image"
+			],
+			[
+				"crea",
+				"createForm"
+			],
+			[
+				"aler",
+				"alert"
+			],
+			[
+				"rout",
+				"routeParams"
+			],
+			[
+				"tile",
+				"tile_page"
+			],
+			[
+				"chosen",
+				"chosen-choices"
+			],
+			[
+				"label",
+				"labelled_input"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"txta",
+				"textarea"
+			],
+			[
+				"crae",
+				"create_page"
+			],
+			[
+				"linked",
+				"linkedResources"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1149,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 963,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 1223,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"Package ",
+				"Package Control: Install Package"
+			],
+			[
+				"Packag",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Robert Komaromi/Documents/webdev/psychic_name_generator/styles.css",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten_rails/_app_meeting_notes.txt",
+		"/C/Keil/ece254/lab2/RTX_CM3/INC/RTL.h",
+		"/C/Users/Robert Komaromi/Documents/University of Waterloo/F2015/ECE 224 (Embedded Microprocessor Systems)/examplePrograms/ledblink2.c",
+		"/C/Users/Robert Komaromi/Documents/University of Waterloo/F2015/ECE 224 (Embedded Microprocessor Systems)/examplePrograms/timerint2.c",
+		"/C/Users/Robert Komaromi/Documents/University of Waterloo/F2015/ECE 224 (Embedded Microprocessor Systems)/examplePrograms/timerint1.c",
+		"/C/Users/Robert Komaromi/Documents/University of Waterloo/F2015/ECE 224 (Embedded Microprocessor Systems)/examplePrograms/buttonpoll1.c",
+		"/C/Users/Robert Komaromi/Documents/University of Waterloo/F2015/ECE 224 (Embedded Microprocessor Systems)/examplePrograms/ledblink1.c",
+		"/C/Users/Robert Komaromi/Documents/University of Waterloo/F2015/ECE 224 (Embedded Microprocessor Systems)/examplePrograms/buttonpoll2.c",
+		"/C/Keil/ece254/lab1/RTX_CM3/SRC/CM/rt_Task.c",
+		"/C/Keil/ece254/lab1/RTX_CM3/SRC/CM/rt_TypeDef.h",
+		"/C/Keil/ece254/lab1/RTX_CM3/SRC/CM/rt_Task.h",
+		"/C/Keil/ece254/lab1/RTX_CM3/SRC/CM/HAL_CM3.c",
+		"/C/Keil/ARM/RV31/INC/RTX_lib.c",
+		"/C/Users/Robert Komaromi/Documents/University of Waterloo/F2015/ECE 242 (Electronic Circuits 2)/ECE 242 Lecture Summary Fall 2015.html",
+		"/C/Users/Robert Komaromi/AppData/Local/Temp/7zO89E143D6/ECE 242 Lecture Summary Fall 2015.html",
+		"/C/Keil/ece254/lab1/RTX_CM3/SRC/CM/rt_Task_ext.c",
+		"/C/Keil/ece254/lab1/RTX_CM3/SRC/CM/rt_Task_ext.h",
+		"/C/Keil/ece254/lab1/RTX_CM3/INC/RTL_ext.h",
+		"/C/Users/Robert Komaromi/Desktop/def parse_codes_workbook.rb",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten_rails/private_key/key_private.txt",
+		"/C/Users/Robert Komaromi/Documents/Robert/Programs for JC/wk4/jc2q1/jc2q1.c",
+		"/C/Users/Robert Komaromi/Documents/Robert/Programs for JC/wk4/jc2q3/jc2q3.c",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/app/models/User.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/app/models/Role.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/.gitignore",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/sftp-config.json",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/composer.json",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/app/config/database.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/app/controllers/AuthController.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/app/controllers/ClientController.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/app/config/app.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/_notes/04_notes_Apr_29_2015",
+		"/C/Users/Robert",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/visualizerAppServices (7).js",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/admin (3).js",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/app/models/Client.php",
+		"/C/Users/Robert Komaromi/Documents/University of Waterloo/W2015/ECE250/projects/project2/Project2/Debug/int.in.stack.txt",
+		"/C/Users/Robert Komaromi/Documents/University of Waterloo/W2015/ECE250/projects/project2/Project2/Debug/int.in.txt",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/admin (2).js",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/visualizerAppServices (5).js",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/app/filters.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/app/config/session.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/_notes/03_notes_Dec_17_2014",
+		"/C/Users/Robert Komaromi/AppData/Local/Temp/7zO0A7CE52B/Assignment #2 Information.html",
+		"/N/ECE222/lab1/Lab1_program.s",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/app/routes.php",
+		"/C/Users/Robert Komaromi/Documents/University of Waterloo/W2015/ECE222/assignments/1/Assignment 1.html",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/visualizerAppServices.js",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/index (2).html",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/session.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/app/config/auth.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/app/views/missing.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/public/index.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/bootstrap/start.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/api/app/config/view.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/app/sftp-config.json",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/_notes/03_notes_Dec_17_2014",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/database (1).php",
+		"/C/Users/Robert Komaromi/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/app/models/ImpactMeasure.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/public_html/css/chosen.min.css",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/public_html/js/chosen.jquery.min.js",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/app/models/ImpactMeasureName.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/public_html/css/chosen-spinner.css",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/app/models/ProximityMeasureName.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/_notes/01_notes_Nov_21_2014",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/public_html/js/adminApp.js",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/app/models/Host.php",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/import.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/public_html/js/visualizerAppServices.js",
+		"/C/Users/Robert Komaromi/Documents/webdev/ratemyres_forums/public/styles.css",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/public_html/master.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/public_html/js/visualizerApp.js",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/app/models/Client.php",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/Excel (3).php",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/LaravelExcelReader.php",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/Excel (2).php",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/Excel (1).php",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/Excel.php",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/config (5).ini",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/config (4).ini",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/config (3).ini",
+		"/C/Users/Robert Komaromi/Documents/webdev/gitlist/config.ini",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/config (2).ini",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/public_html/admin.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/public_html/css/visualizer.css",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/public_html/css/admin.css",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/app/config/database.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/doves/app/routes.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/app/models/ProximityMeasure.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/app/models/IndustryFocus.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/doves/app/models/Resource.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/app/config/app.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/doves/public/js/app.js",
+		"/C/Users/Robert Komaromi/Documents/webdev/doves/public/create.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/doves/public/admin.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/doves/public/master.blade.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/application_overview.txt",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/composer.json",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/public_html/master.blade.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/app/config/view.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/app/routes.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/ten-benchmarking.sublime-project",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/sftp-config.json",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten-benchmarking/ten-ssl.conf",
+		"/C/Users/Robert Komaromi/Documents/webdev/doves_aux/notes_september_11",
+		"/C/Users/Robert Komaromi/Documents/webdev/ten/application_overview",
+		"/C/Users/Robert Komaromi/Documents/webdev/doves/app/models/Tag.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/doves/app/start/global.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/doves/public/css/down.css",
+		"/C/Users/Robert Komaromi/Documents/webdev/doves/public/maintenance.php",
+		"/X/public/.htaccess",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/master.blade.php",
+		"/C/Users/Robert Komaromi/Documents/webdev/doves/__notes/11_notes_wed_aug_27",
+		"/C/Users/Robert Komaromi/Documents/webdev/doves/__notes/10_notes_thurs_aug_14",
+		"/C/Users/Robert Komaromi/Documents/webdev/doves/app/models/User.php",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/config.sample.inc.php",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/config.inc.php",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/apache2 (1).conf",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/apache.conf",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/apache2.conf",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/index (1).html",
+		"/C/Users/Robert Komaromi/Application Data/SSH/temp/index.html",
+		"/C/Users/Robert Komaromi/Documents/webdev/test/index.html",
+		"/C/Users/Robert Komaromi/AppData/Roaming/Sublime Text 2/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Robert Komaromi/Documents/webdev/doves/sftp-config.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"chosen.min.css,<open files>",
+			"master.blade.php,<open files>",
+			"app.js,<open files>",
+			"routes.php,<open files>",
+			"app.js,<open files>",
+			"master.blade.php,<open files>",
+			"edit.blade.php,<open files>",
+			"master.blade.php,<open files>",
+			"single.blade.php,<open files>",
+			"datepicker.css,<open files>",
+			"datepicker.css",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"centre-container",
+			"tenr",
+			"tcb",
+			"p_tcb",
+			"P_TCB",
+			"p_tcb",
+			"migrations",
+			"posts",
+			"ped_pio",
+			"led_pio",
+			"switches",
+			"TIMER_0_FREQ",
+			"ssh",
+			"ptask",
+			"*stk",
+			"*stack",
+			"t_pcb",
+			"os_stackinfo",
+			"os_stackinfo ",
+			"magic",
+			"used",
+			"init_stack",
+			"p_tcb",
+			"init_stack",
+			"rt_init_stack",
+			"priv_stack",
+			"init",
+			"create",
+			"priv_stack",
+			"init",
+			"task_context",
+			"mp_tcb",
+			"mp_stk",
+			"rt_stk",
+			"mp_stk",
+			"pm_stk",
+			"mp_tcb",
+			"IOWR",
+			"OS_TASKCNT",
+			"os_active_TCB",
+			"OS_TASKCNT",
+			"os_active",
+			"pwd",
+			"hard",
+			"_norm",
+			"-",
+			"export_sales",
+			"innovation",
+			"time_to_market",
+			"recieved",
+			"innovation",
+			"controller",
+			"migra",
+			"model",
+			"rake:ass",
+			"db:",
+			"bower",
+			"key",
+			" == ",
+			"expect",
+			"`, ",
+			"migrations",
+			":",
+			"%",
+			":",
+			"number_of_respondents",
+			"innovation",
+			"research_and_technology_information",
+			"average_research_and_technology_information",
+			"average_business_expertise",
+			"average business expertise",
+			"average_of_direct_impact",
+			"number_of_respondents",
+			"null",
+			"$row->",
+			"null",
+			"$row->",
+			"normalize(",
+			"'programs'",
+			"getProgramData",
+			"getUser",
+			"!Cornflakes1313",
+			"aggregate_impact_on_revenues",
+			"Aggregate impact on revenues",
+			"export_sales",
+			"url",
+			"average_annual_revenues_of_client_firms",
+			"proximity_measure",
+			"deleteClient",
+			"region",
+			"average_annual_revenues",
+			"Average annual revenues of client firms",
+			"No file processed. Please try again.",
+			"getImpactMeasures",
+			"array_sort",
+			"programData",
+			"isEmpty",
+			"impact_measure",
+			"proximity_measure",
+			"undefined",
+			"checkLogin",
+			"base_convert",
+			"value",
+			"$program->name = 'Program ' . strtoupper(base_convert($program->id, 10, 36));",
+			"$role = Auth::user()->role->name;",
+			"$role = Auth::user->role->name;",
+			"$role = Auth::user()->role->name;",
+			"Peer",
+			"before",
+			"average_annual_revenues_of_client_firms_norm",
+			"== null",
+			"!= null",
+			"entrepreneurialness_of_region",
+			"undefined",
+			"http",
+			"round",
+			"function",
+			"array_pluck",
+			"array_pluck ",
+			"value_scaled",
+			"different",
+			"value_scaled",
+			" =",
+			"= ",
+			"scaled",
+			"%",
+			"graph",
+			"impact measures"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"url(../img/",
+			"data-ng-",
+			"online_resources",
+			"$root.searchForm",
+			"?>",
+			"<?php",
+			"%>",
+			"<%",
+			"%>",
+			"<%",
+			"$tile->category->name",
+			"url(../img/datepicker",
+			"org",
+			"Org"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 1149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								296,
+								296
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 600.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "styles.css",
+					"settings":
+					{
+						"buffer_size": 1223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"us",
+				"app/models/User.php"
+			],
+			[
+				"role",
+				"app/models/Role.php"
+			],
+			[
+				"authcon",
+				"app/controllers/AuthController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true
+}
